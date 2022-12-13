@@ -7,9 +7,9 @@ Machine Learning Final Project
 
 Our improved __StyleGAN2__ gives it 3D functionality as well as improved performance.
 
-To run original model on new data: change directory in train_from_folder method.
+To run _original model_ on new data: change directory in train_from_folder method.
 
-To run our 3D model on new data: change self.dataset in set_data_src method and change filter number parameters to desired number of data channels.
+To run our _3D model_ on new data: change self.dataset in set_data_src method and change filter number parameters to desired number of data channels.
 
 Contributions:
 
