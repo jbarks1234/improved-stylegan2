@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Lieberman"
-  given-names: "Joseph"
 - family-names: "Barkovitch"
   given-names: "Jacob"
+- family-names: "Lieberman"
+  given-names: "Joseph"
 title: "improved-stylegan2"
 version: 1.0.0
 date-released: 2022-12-13
