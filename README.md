@@ -14,5 +14,6 @@ To run our _3D model_ on new data: change self.dataset in set_data_src method an
 Contributions:
 
 Joe - Did not have a NVIDIA GPU, so could not work/commit anything to the code. Got on zoom a couple times and worked on code together. Collaborated on Abstract, Final Project Update, Presentation, Report, etc. 
+
 Jacob - Worked on the code and suggested the 3-D change. Collaborated on Abstract, Final Project Update, Presentation, Report, etc. 
 
